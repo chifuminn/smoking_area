@@ -67,7 +67,6 @@ TEMPLATES = [
         },
     },
 ]
-c
 WSGI_APPLICATION = 'smokingareaproject.wsgi.application'
 
 
