@@ -47,7 +47,12 @@ table {
   border-spacing: 0;
 }
 
+/* ここから記述 */
 
-p {
-    color: red;
+.title{
+    color :black;
+}
+
+.list ul {
+    color :black;
 }
