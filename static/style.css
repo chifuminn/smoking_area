@@ -76,6 +76,11 @@ table {
     margin: 0 8%;
 }
 
+.list {
+  height: 500px;
+  overflow: scroll;
+}
+
 .list ul {
     color: black;
     font-size: 30px;
@@ -87,6 +92,7 @@ table {
     margin-bottom: 15%;
     padding-top: 50px;
     height: 20px;
+    padding-right: 40px;
 }
 
 .subcontents{
