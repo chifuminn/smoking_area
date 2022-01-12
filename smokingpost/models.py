@@ -8,4 +8,4 @@ class SmokingAreaModel(models.Model):
     attention=models.TextField()
     start_usage_time=models.TimeField()
     end_usage_time=models.TimeField()
-    postdata=models.DateField(auto_now_add=True)
+    postdate=models.DateField(auto_now_add=True)
