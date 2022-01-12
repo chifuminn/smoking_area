@@ -22,9 +22,9 @@
         <div class="main-contents">
             <div class="list">
                 <ul>
-                    <li><a href="#">・三鷹駅北口</a></li>
-                    <li><a href="#">・三鷹駅南口</a></li>
-                    <li><a href="#">・三鷹駅付近喫煙可能店舗</a></li>
+                    {% for item in smoking_area_list %}
+                        <li><a href="#">・{{ item.name }}</a></li>
+                    {% endfor %}
                 </ul>
             </div>
             <div class="subcontents">
