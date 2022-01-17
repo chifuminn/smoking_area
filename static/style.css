@@ -106,7 +106,7 @@ table {
   font-size: 50px;
   text-align: center;
   padding-top: 150px;
-  font-family: sans-serif;
+  font-family: HiraMinProN-W6;
 }
 
 .btn--orange,
@@ -115,6 +115,8 @@ a.btn--orange {
   background-color :chocolate;
   font-size: 50px;
   text-align: center;
+  padding: 10px 10px;
+  font-family: HiraMinProN-W6;
 }
 
 .btn--orange:hover,
