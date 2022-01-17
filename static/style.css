@@ -132,3 +132,12 @@ a.btn--orange:hover {
   margin-left: 20px;
   margin-right: 20px;
 }
+
+.detail ul{
+  font-size: 30px;
+  margin-top: 500px;
+}
+
+.detail li{
+  margin-top: 80px;
+}
