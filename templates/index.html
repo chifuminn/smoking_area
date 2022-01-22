@@ -23,7 +23,7 @@
             <div class="list">
                 <ul>
                     {% for item in smoking_area_list %}
-                        <li><a href="#">・{{ item.name }}</a></li>
+                        <li><a href="{% url 'detail' item.pk %}">・{{ item.name }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
