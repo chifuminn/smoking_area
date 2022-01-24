@@ -136,8 +136,12 @@ a.btn--orange:hover {
   margin-right: 20px;
 }
 
-.detail{
-
+.detail-title{
+  font-size: 30px;
+  text-align: center;
+  background-color: cornsilk;
+  padding: 30px 30px;
+  margin-bottom: 10px;
 }
 
 .detail ul{
