@@ -6,6 +6,7 @@
 {% endblock header %} 
 
 {% block content %}
+<div class ="main">
     <div class="detail-title">
         <h2>喫煙所名:{{ object.name }}</h2>
     </div>
@@ -18,4 +19,8 @@
             <li>・利用上の注意:{{ object.attention }}</li>
         </ul>
     </div>
+    <div class="return">
+        <a href="{% url 'index' %}">トップページへ</a>
+    </div>
+</div>    
 {% endblock content %}

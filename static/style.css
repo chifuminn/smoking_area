@@ -136,18 +136,37 @@ a.btn--orange:hover {
   margin-right: 20px;
 }
 
+.main{
+  background-color: ivory;
+}
+
 .detail-title{
   font-size: 30px;
   text-align: center;
-  background-color: cornsilk;
+  background-color: lightgreen;
   padding: 30px 30px;
   margin-bottom: 10px;
 }
 
 .detail ul{
   font-size: 30px;
+  margin-bottom: 150px;
 }
 
 .detail li{
   margin-top: 50px;
+}
+
+.return{
+  font-size: 20px;
+  display: inline-block;
+  background-color: yellowgreen;
+  color:white ;
+  font-size: 20px;
+  padding:10px 30px ;
+  margin-top:65px;
+  border-radius: 10px; 
+  box-shadow:0px 7px black;
+  margin-bottom: 50px;
+  font-family: HiraMinProN-W6;
 }
