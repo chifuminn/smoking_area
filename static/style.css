@@ -145,7 +145,7 @@ a.btn--orange:hover {
   text-align: center;
   background-color: lightgreen;
   padding: 30px 30px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 .detail ul{
@@ -169,4 +169,14 @@ a.btn--orange:hover {
   box-shadow:0px 7px black;
   margin-bottom: 50px;
   font-family: HiraMinProN-W6;
+}
+
+.return:hover{
+  opacity: 1;
+}
+
+.return:active{
+  box-shadow:none;
+  position:relative;
+  top:7px;
 }
