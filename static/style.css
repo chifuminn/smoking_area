@@ -47,12 +47,17 @@ table {
   border-spacing: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* ここから記述 */
 .title{
     color: black;
     width: 100%;
     height: 120px;
     background-color: cornflowerblue;
+    opacity: 0.9;
 }
 
 .title h1 {
