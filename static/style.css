@@ -67,6 +67,10 @@ a {
  padding-top: 20px;
 }
 
+.top-wrapper{
+  background-image: url("../media/smoke_image.jpg") ;
+}
+
 .smal-title {
     padding-top: 10px;
     padding-left: 5px;
@@ -81,6 +85,10 @@ a {
     margin: 0 8%;
 }
 
+.fa-smoking{
+  margin-right: 10px;
+}
+
 .list {
   height: 500px;
   overflow: scroll;
@@ -90,12 +98,17 @@ a {
     color: black;
     font-size: 30px;
     margin-left: 10px;
-    text-decoration-line: none; 
+    text-decoration-line: none;
+}
+
+.list li{
+  background-color: cadetblue;
+  opacity: 0.8;
 }
 
 .list ul li {
     margin-bottom: 15%;
-    padding-top: 50px;
+    padding-top: 40px;
     height: 20px;
     padding-right: 40px;
 }
