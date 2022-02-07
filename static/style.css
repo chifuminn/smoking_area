@@ -197,3 +197,17 @@ a.btn--orange:hover {
   position:relative;
   top:7px;
 }
+
+.warning h1{
+  font-size: 60px;
+  color: darkred;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.warning p{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 40px;
+  border-bottom: darkslateblue;
+}
