@@ -206,8 +206,18 @@ a.btn--orange:hover {
 }
 
 .warning p{
-  font-size: 20px;
+  font-size: 25px;
   text-align: center;
   margin-top: 40px;
-  border-bottom: darkslateblue;
+}
+
+.warning-image{
+  text-align: center;
+}
+
+.jamp{
+  margin-left: 530px;
+  padding: 20px 20px;
+  color: antiquewhite;
+  background-color: black;
 }
