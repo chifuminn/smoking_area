@@ -67,6 +67,10 @@ a {
  padding-top: 20px;
 }
 
+.search{
+  text-align: center;
+}
+
 .top-wrapper{
   background-image: url("../media/smoke_image.jpg") ;
 }
