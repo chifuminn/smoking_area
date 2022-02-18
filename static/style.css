@@ -69,6 +69,24 @@ a {
 
 .search{
   text-align: center;
+  margin-top: 20px;
+  position: relative;
+}
+
+#text2{
+  width: 200px;
+  height: 30px;
+}
+
+#submit2{
+  background-color:rgb(33, 165, 165);
+  height: 35px;
+  width: 40px;
+  color: white;
+}
+
+#submit2:hover{
+  color:black;
 }
 
 .top-wrapper{
