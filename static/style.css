@@ -88,7 +88,7 @@ a {
 }
 
 #submit2:hover{
-  color:black;
+  color: darkorchid;
 }
 
 body{
@@ -122,7 +122,7 @@ body{
 }
 
 .list ul {
-    color: black;
+    color: white;
     font-size: 30px;
     margin-left: 10px;
     text-decoration-line: none;
@@ -179,6 +179,7 @@ a.btn--orange:hover {
 
 .main{
   background-color: ivory;
+  min-height: 900px;
 }
 
 .detail-title{
