@@ -261,3 +261,34 @@ a.btn--orange:hover {
   display: block;
   width: 130px;
 }
+
+.explanation{
+  height: 100px;
+  background-color: gray;
+}
+
+.explanation a{
+  display: inline-block;
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.explanation a:hover{
+  color: blue;
+}
+
+.introduction{
+  height: 100px;
+  background-color: black;
+}
+
+.introduction p{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  font-family: serif;
+  padding-top: 10px;
+}
