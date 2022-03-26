@@ -1,5 +1,6 @@
 from django.urls import path
 from .views import top_view, age_confirmation_view, detail_view, warning_view, after_auth_top_view
+from smokingpost import views
 
 urlpatterns = [
     path('', age_confirmation_view, name='age_confirmation'),
