@@ -25,8 +25,8 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = '1hcd5sj1bbo7+p9y_c7+$cbju@irijy$8^5tas$=e@4usoyg0u'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-# DEBUG = True
-DEBUG = False
+DEBUG = True
+# DEBUG = False
 
 # ALLOWED_HOSTS = ["smoking-area111.herokuapp.com"]
 # ALLOWED_HOSTS = []
@@ -87,7 +87,7 @@ DATABASES = {
         'NAME': 'name',
         'USER': 'user',
         'PASSWORD': '',
-        'HOST': 'host',
+        'HOST': 'localhost',
         'PORT': '',
     }
 }

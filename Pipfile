@@ -9,6 +9,7 @@ django-heroku = "*"
 wheel = "*"
 psycopg2-binary = "*"
 dj-database-url = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
