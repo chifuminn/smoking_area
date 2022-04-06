@@ -292,3 +292,16 @@ a.btn--orange:hover {
   font-family: serif;
   padding-top: 10px;
 }
+
+/* スマホ記述 */
+@media screen and (max-width:480px) {
+  .title{
+    color: dimgrey;
+    font-size: 20px;
+  }
+
+  .top-wrapper{
+    width: 100%;
+    height: 100%;
+  }
+}
